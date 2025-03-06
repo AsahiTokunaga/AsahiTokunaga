@@ -1,0 +1,3 @@
+alias ls="eza -aTL 2 -s name --icons"
+alias lsa="eza -ahlxBT -L 2 -s name --icons"
+alias strage="df -h --total 2>/dev/null | grep --color=never -e 'Filesystem ' -e 'total ' | sed '/^total / s/^/\x1b[31m/; /^total / s/$/\x1b[0m/'"
