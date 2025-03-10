@@ -1,4 +1,4 @@
-# Hi! Nice to meat you.
+# Hi! Nice to meet you.
 
 ## Language history
 - Rust: 1 year
