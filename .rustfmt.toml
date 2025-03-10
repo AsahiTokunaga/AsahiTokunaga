@@ -1,8 +1,9 @@
-edition                        = 2024
-style_edition                  = 2024
+edition                        = "2024"
+style_edition                  = "2024"
 max_width                      = 80
 tab_spaces                     = 2
-newline_style                  = Unix
+brace_style                    = "AlwaysNextLine"
+newline_style                  = "Unix"
 single_line_if_else_max_width  = 70
 single_line_let_else_max_width = 70
 match_block_trailing_comma     = true
