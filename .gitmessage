@@ -1,0 +1,16 @@
+<type>: <title>
+
+<body>
+
+# ==========================================
+# types
+#   add    : Newly add files or functions
+#   change : A specification changes
+#   clean  : Refactoring
+#   disable: A function disables
+#   fix    : A bug fixes
+#   hotfix : A critical bug fixes
+#   remove : A file removes
+#   revert : A change undo
+#   update : A specification adds
+#   upgrade: Version ups
