@@ -1,0 +1,26 @@
+[user]
+        name = AsahiTokunaga
+        email = hihimamug14@gmail.com
+[init]
+        defaultBranch = main
+[core]
+        editor = vim
+[alias]
+        a = add --all
+        b = branch
+        bs = switch -c
+        c = commit
+        cl = clone
+        d = diff
+        f = fetch
+        fp = fetch --prune
+        i = init
+        l = log --graph --pretty=oneline
+        s = switch
+        sa = stash
+        sd = stash drop
+        st = status
+        p = pull
+        r = remote
+[commit]
+        template = /home/hihimamu/.gitmessage
